@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Engineer / Scientist / Thinker
+subtitle: Robotics & ML Engineer | Cambridge MEng Graduate
 
 profile:
   align: right
@@ -18,10 +18,10 @@ social: false # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I graduated in Engineering from Cambridge, where I focused on robotics and machine learning.
+**I build ML and robotics systems that work in the real world.**
 
-My core interest lies in robotic perception. I am fascinated by how humans, animals and now machines, can make sense of a world that is full of complexity, novelty and uncertainty. I see perception as the foundation of intelligence, and I hope to help build robotic systems that can understand the world as richly, or perhaps even more deeply, than we do.
+I am a recent MEng graduate from the University of Cambridge specializing in bridging the gap between research and real-world deployment. My approach is grounded in first principles and shaped by experience across the autonomy stack, combining a foundation in Machine Learning, Computational Neuroscience, and Robotics with the engineering rigor required to make systems work reliably under uncertainty.
 
-While helping machines understand the world, I’m too am trying to understand the universe we live in. I have a keen interest in physics and philosophy, and I’m drawn to ideas that challenge how we think about reality and intelligence.
+This perspective has guided my work, from building a safety-critical autonomy MVP in an early-stage startup, to conducting research in vision-based tactile sensing, and the end-to-end design of aerial robotics systems. Across these projects, I have focused on designing systems that not only perform well, but are robust and deployable into the noisy real-world.
 
-This website is a collection of those adventures. Explorations of ideas formalised into projects and writing. If something here sparks a thought, I’d love to discuss it. Feel free to email me.
+I am motivated by the challenge of solving complex problems, and turning research into systems that work in the real-world. I am looking to apply my blend of research and engineering skills to solve the next generation of problems through Embodied AI and robotics.
