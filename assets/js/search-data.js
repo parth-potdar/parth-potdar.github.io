@@ -42,9 +42,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-uncertainty-in-navigation-master-39-s-thesis",
-          title: 'Uncertainty in Navigation (Master&amp;#39;s Thesis)',
-          description: "My Master&#39;s thesis in Computational Neuroscience",
+            },},{id: "projects-brain-inspired-spatial-navigation-with-deep-learning",
+          title: 'Brain-Inspired Spatial Navigation with Deep Learning',
+          description: "Summary of Master&#39;s Thesis in Computational Neuroscience",
           section: "Projects",handler: () => {
               window.location.href = "/projects/masters_thesis/";
             },},{
