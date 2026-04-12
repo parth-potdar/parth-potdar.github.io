@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Brain-Inspired Spatial Navigation with Deep Learning
-description: Summary of Master's Thesis in Computational Neuroscience
+title: Brain-Inspired Spatial Navigation
+description: Master's Thesis in Computational Neuroscience
 img: assets/img/masters_project/thesis_thumbnail.png
 importance: 1
 category: work
