@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -17,21 +17,14 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -42,11 +35,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-brain-inspired-spatial-navigation-with-deep-learning",
-          title: 'Brain-Inspired Spatial Navigation with Deep Learning',
-          description: "Summary of Master&#39;s Thesis in Computational Neuroscience",
+            },},{id: "projects-high-speed-tactile-braille-reading",
+          title: 'High-Speed Tactile Braille Reading',
+          description: "Vision-based tactile sensing system for robotic Braille reading.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/braille_robot/";
+            },},{id: "projects-brain-inspired-spatial-navigation",
+          title: 'Brain-Inspired Spatial Navigation',
+          description: "Master&#39;s Thesis in Computational Neuroscience",
           section: "Projects",handler: () => {
               window.location.href = "/projects/masters_thesis/";
+            },},{id: "projects-tree-perching-aerial-robot",
+          title: 'Tree-Perching Aerial Robot',
+          description: "Design of a tendon-actuated grasper enabling aerial robots to perch on tree branches efficiently.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tree_drone/";
             },},{
         id: 'social-cv',
         title: 'CV',
